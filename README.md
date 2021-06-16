@@ -1,2 +1,3 @@
-# baseConvert
+# Base Convert
  
+This is a simple tool created in python to convert numbers of different base values. This program supports integers (base 10), binary (base 2), hexadecimal (base 16), and octal (base 8). While it's a little bit useless as the Windows Calculator has a Programmer mode built in that can do all of this (to a much better degree, may I add), I still thought it would be nice to share this little tool I made a few months back.
